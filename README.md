@@ -6,9 +6,11 @@ Java Classes Diagram:
 
 ![Diagram_java](https://user-images.githubusercontent.com/46601373/125213894-41230b00-e2ac-11eb-888a-d708b0e387f9.png)
 
+
 Database Diagram:
 
 ![Diagram_DB](https://user-images.githubusercontent.com/46601373/125213875-20f34c00-e2ac-11eb-8e0a-e24cab68db92.png)
+
 
 Docker Network Diagram:
 
