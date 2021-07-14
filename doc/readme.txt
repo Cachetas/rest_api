@@ -1,5 +1,5 @@
 
-- No com WSL mudar diretório para "Websandbox-main" do nosso projecto :
+- No WSL mudar diretório para "Websandbox-main" do nosso projecto :
 cd /diretorio/do/grupo6/WebSandbox-main
 
 Passo 1)
