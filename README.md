@@ -1,6 +1,6 @@
 # rest_api
 
-University work of a Java REST API Server fully operational to communicate with a PostgreSQL database, deployed with Maven and Wildfly inside a Docker container. And Implementation of a PostgreSQL database with a Docker container, that allows the REST API Server to store data.
+University work of a Java REST API Server fully operational to communicate with a PostgreSQL database, deployed with Maven and Wildfly inside a Docker container. Implementation of a PostgreSQL database with a Docker container, that allows the REST API Server to store data.
 
 
 
